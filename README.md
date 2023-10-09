@@ -17,7 +17,7 @@ Esse projeto é inspirado na técnica Pomodoro, que visa a concentração em tar
 
 ## Screenshots
 
-![App Screenshot](https://github.com/nkbreno33/Fokus/blob/main/Fokus-projeto-base/imagens/Screenshot.JPG)
+![App Screenshot](https://github.com/nkbreno33/Fokus/blob/main/imagens/Screenshot.JPG))
 
 
 ## Licença
